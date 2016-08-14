@@ -1,0 +1,7 @@
+build/
+external/
+lib/
+*.opensdf
+*.sdf
+*.suo
+*.user
